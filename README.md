@@ -1,4 +1,4 @@
 - 👋 Hi, I am Andrey Agafonov
 - 👀 I’m interested in improving my coding skills
 - 🌱 I’m currently using JS and Python
-- 📫 My Telegram contact is @AndreyAgafonov
+- 📫 My Telegram contact is @asagafonov
