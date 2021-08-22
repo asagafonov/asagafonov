@@ -1,4 +1,5 @@
 - 👋 Hi, I am Andrey Agafonov
-- 👀 I’m interested in improving my coding skills
-- 🌱 I’m currently using JS and Python
+- 🌱 Frontend developer also interested in Python
 - 📫 My Telegram contact is @asagafonov
+
+- 👀 Check out my latest product at https://rb.gy/oz2avd
